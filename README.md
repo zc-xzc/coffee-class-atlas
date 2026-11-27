@@ -16,6 +16,10 @@ Extract the whole ZIP and open `index.html` in a browser. Use the language menu,
 
 Day 8 compares the milk, foam and sweetener in two iced drinks. For the Spanish iced latte, the ingredient list gives 15 mL of condensed milk and the instructions give 1 oz. The class quantity is still to be confirmed.
 
+第八天新增七张实拍图，展示炼乳加入浓缩、搅拌与倾倒、冰饮杯面和两杯叶纹练习。教师视图配有看图问句和拼音。
+
+Seven Day 8 photos follow the mixing and pouring of the Spanish iced latte, compare the surfaces of iced drinks and show two leaf-pattern exercises. Teacher mode includes a question and Mandarin pinyin with each image.
+
 ## 观看短片 / Watch the film
 
 宣传片回顾前七天的课程。课程首页和导航都可进入宣传片。在同一个播放器里选择普通话或 English，字幕也可切换中文或英文。全片 86 秒，分为 10 段，点击各段可直接播放，也可前往对应课程。中文界面默认讲普通话，英语和教师界面默认讲英语。讲解为重新制作的合成声音。下载整站并解压后，视频、两种语言的讲解、字幕、课程与图片均可离线使用。参考网站需联网。
