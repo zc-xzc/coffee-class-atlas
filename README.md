@@ -1,18 +1,26 @@
-# Coffee Atlas · 七日咖啡课
+# Coffee Atlas · 八日咖啡课
 
-A public teaching edition of seven days at the coffee bar. Read in Chinese, English or an English-led teacher view with Chinese and tone-marked pinyin. The lessons, drinks, photographs, history and step-by-step practice use local files. External reading and original image sources require an internet connection.
+A public teaching edition of eight days at the coffee bar. Read in Chinese, English or an English-led teacher view with Chinese and tone-marked pinyin. The lessons, drinks, photographs, history and step-by-step practice use local files. External reading and original image sources require an internet connection.
 
 ## 在本机打开 / Open locally
 
 完整解压后，用浏览器打开 `index.html`。右上角切换简体中文、English 或 Teacher。文件夹内的图片需和网页保存在一起。
 
-Extract the whole ZIP and open `index.html` in a browser. Use the language menu, then choose a lesson or drink. Direct routes include `#zh/home`, `#en/drinks` and `#teacher/day/7`.
+Extract the whole ZIP and open `index.html` in a browser. Use the language menu, then choose a lesson or drink. Direct routes include `#zh/home`, `#en/drinks` and `#teacher/day/8`.
+
+## 第八天 / Day 8
+
+打开网页后，在课程目录选择「第 8 天」。Direct lesson routes: `#zh/day/8`, `#en/day/8`, `#teacher/day/8`.
+
+第八天对照两杯的冷奶、奶泡和甜味来源。西班牙冰拿铁的配料表写 15 mL 炼乳，操作步骤另写 1 oz。课堂实际用量待确认。
+
+Day 8 compares the milk, foam and sweetener in two iced drinks. For the Spanish iced latte, the ingredient list gives 15 mL of condensed milk and the instructions give 1 oz. The class quantity is still to be confirmed.
 
 ## 观看短片 / Watch the film
 
-课程首页和导航都可进入宣传片。在同一个播放器里选择普通话或 English，字幕也可切换中文或英文。全片 86 秒，分为 10 段，点击各段可直接播放，也可前往对应课程。中文界面默认讲普通话，英语和教师界面默认讲英语。讲解为重新制作的合成声音。下载整站并解压后，视频、两种语言的讲解、字幕、课程与图片均可离线使用。参考网站需联网。
+宣传片回顾前七天的课程。课程首页和导航都可进入宣传片。在同一个播放器里选择普通话或 English，字幕也可切换中文或英文。全片 86 秒，分为 10 段，点击各段可直接播放，也可前往对应课程。中文界面默认讲普通话，英语和教师界面默认讲英语。讲解为重新制作的合成声音。下载整站并解压后，视频、两种语言的讲解、字幕、课程与图片均可离线使用。参考网站需联网。
 
-Open Film from the home page or the course navigation. The same player offers Mandarin and English narration with a choice of Chinese or English captions. Its ten chapters link back to the lessons. The film, both voices, captions and course materials work in the extracted offline edition. External references need an internet connection. Direct routes include `#zh/film`, `#en/film` and `#teacher/film`.
+The film covers Days 1–7. Open Film from the home page or the course navigation. The same player offers Mandarin and English narration with a choice of Chinese or English captions. Its ten chapters link back to the lessons. The film, both voices, captions and course materials work in the extracted offline edition. External references need an internet connection. Direct routes include `#zh/film`, `#en/film` and `#teacher/film`.
 
 ## GitHub Pages
 

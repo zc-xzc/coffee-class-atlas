@@ -25,3 +25,9 @@
 .film-credit{margin-top:21px;padding-top:13px;border-top:1px solid var(--line);color:var(--muted);font-size:.87rem}
 
 .film-voice-label{display:inline-flex;align-items:center;gap:.7em;font-weight:600}.film-voice{padding:.35em .7em;background:#fff;color:#1c342b;border:1px solid #698778;border-radius:4px;font:inherit;cursor:pointer}.film-voice:focus-visible{outline:3px solid #ffdb96;outline-offset:2px}
+
+.recipe-comparison table { width: 100%; table-layout: fixed; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.recipe-comparison caption { text-align: left; font-weight: 650; margin-bottom: .7rem; }
+.recipe-comparison th, .recipe-comparison td { padding: .6rem .5rem; border-bottom: 1px solid var(--line); vertical-align: top; text-align: left; overflow-wrap: anywhere; }
+.recipe-comparison thead { background: var(--light); }
+.recipe-comparison thead th:first-child { width: 24%; }
